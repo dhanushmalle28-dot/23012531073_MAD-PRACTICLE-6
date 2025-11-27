@@ -45,4 +45,4 @@ To achieve an edge-to-edge display, allowing your app to draw behind the system 
 
 | **Splash Screen** | **Main Activity**                                                                      |
 |--------------------|----------------------------------------------------------------------------------------|
-| <img src="./screenshots/splash_screen.png" alt="Splash Screen" width="300" height="600"> | <img src="./screenshots/main_screen.png" alt="Main Activity" width="300" height="600"> |
+| <img src="splash_screen.png" alt="Splash Screen" width="300" height="600"> | <img src="main_screen.png" alt="Main Activity" width="300" height="600"> |
